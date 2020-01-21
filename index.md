@@ -1,5 +1,8 @@
-# Tsuff446 Project sitemap
+# Projects Sitemap
 
 ## Links to my projects hosted on github.io
 
-[This is a link to Google](https://google.com)
+[Connect 4 engine](Connect4)
+[Tic-Tac-Toe solver](TicTacToe)
+[Linked-List Snake](Snake)
+[Bogosort Simulator](bogosort-javascript)
