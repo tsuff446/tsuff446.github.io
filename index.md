@@ -1,4 +1,4 @@
-# Projects Sitemap
+# Project Sitemap
 
 ## Links to my projects hosted on github.io
 
@@ -16,4 +16,4 @@ A classic snake game, but the data structure for the snake is a linked list
 
 [Bogosort Simulator](bogosort-javascript/?size=8)
 
-"sorts" the elements of a randomly-generated list using the bogosort method. Change the amount of elements using the size parameter in the url.
+"Sorts" the elements of a randomly-generated list using the bogosort method. Change the amount of elements using the size parameter in the url.
