@@ -14,6 +14,6 @@ Utilizes a modified minimax algorithm to calculate optimal moves in tic tac toe.
 
 A classic snake game, but the data structure for the snake is a linked list
 
-[Bogosort Simulator](bogosort-javascript/?size=8)
+[Bogosort Simulator](bogosort-javascript/?size=6)
 
 "Sorts" the elements of a randomly-generated list using the bogosort method. Change the amount of elements using the size parameter in the url.
